@@ -1,0 +1,4 @@
+pandas
+pysftp
+openpyxl
+persian_tools
